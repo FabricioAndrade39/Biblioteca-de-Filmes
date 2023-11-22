@@ -1,0 +1,40 @@
+Resposta: {
+    "Título": "Pulp Fiction",
+    "Ano": "1994",
+    "Classificação": "R",
+    "Lançado": "14 de outubro de 1994",
+    "Tempo de execução": "154 min",
+    "Gênero": " Crime, Drama",
+    "Diretor": "Quentin Tarantino",
+    "Escritor": "Quentin Tarantino, Roger Avary",
+    "Atores": "John Travolta, Uma Thurman, Samuel L. Jackson",
+    "Enredo": "As vidas de dois assassinos da máfia, um boxeador, um gangster e sua esposa, e um par de bandidos de restaurante se entrelaçam em quatro histórias de violência e redenção.",
+    "Idioma": "Inglês, Espanhol, Francês",
+    "Country": "Estados Unidos ",
+    "Prêmios": "Ganhou 1 Oscar. 69 vitórias e 72 indicações no total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V 1_SX300.jpg",
+    "Avaliações ": [
+        {
+            "Fonte": "Banco de dados de filmes da Internet",
+            "Value": "8.9/10"
+        },
+        {
+            "Fonte": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Fonte": "Metacritic",
+            "Value": "95/100"
+        }
+    ],
+    "Metascore": "95",
+    "imdbRating": "8.9",
+    "imdbVotes": "2,151,243",
+    "imdbID": "tt0110912",
+    "Tipo ": "filme",
+    "DVD": "21 de abril de 2016",
+    "BoxOffice": "$107.928.762",
+    "Produção": "N/A",
+    "Site": "N/A",
+    "Resposta": "Verdadeiro "
+}
